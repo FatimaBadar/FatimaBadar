@@ -1,5 +1,8 @@
+![Header](./github-header-image.png)
+
+<!-- 👋 Hi! I'm Fatima | Aspiring Software Developer<br> -->
 # 💫 About Me:
-👋 Hi! I'm Fatima | Aspiring Software Developer<br>
+
 🌟 I’m a driven Computer Science graduate with a strong passion for coding and a desire to apply my technical expertise to create impactful software solutions. I love building websites, diving into full stack development, and solving complex problems through innovative solutions.
 <br>👯 I’m looking to collaborate on React, Angular, or .NET projects.
 <br>⚡ Fun fact: I’m a nature lover, a budding baker, and an avid gamer!
